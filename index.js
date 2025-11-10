@@ -5,3 +5,7 @@ let result = n + s
 for (let i = 1; i < result; i++) {
     console.log(result)
 }
+
+// 12
+
+console.log(result)
