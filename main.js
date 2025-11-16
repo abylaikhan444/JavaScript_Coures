@@ -1,3 +1,5 @@
+"use strict";
+
 let n = 10
 let s = 12
 let result = n + s
